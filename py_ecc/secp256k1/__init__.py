@@ -7,4 +7,6 @@ from .secp256k1 import (  # noqa: F401
     N,
     P,
     G,
+    multiply,
+    add,
 )
